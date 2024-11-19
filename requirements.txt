@@ -1,0 +1,5 @@
+crewai==0.11.0
+unstructured==0.10.25
+pyowm==3.3.0
+tools==0.1.9 
+python-dotenv
