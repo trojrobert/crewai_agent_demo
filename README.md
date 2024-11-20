@@ -1,6 +1,6 @@
-# CrewAI Agent Demo
+# CrewAI Agent For Travel Planner
 
-Welcome to the **CrewAI Agent Demo** repository! This project demonstrates the implementation of a multi-agent AI system designed to collaboratively plan a travel itinerary. The repository showcases the core components of CrewAI and provides an example workflow for a travel planning agent. Below is a detailed guide to understanding, installing, and running the code.
+Welcome to the **CrewAI Agent For Travel Planner** repository! This project demonstrates the implementation of a multi-agent AI system designed to collaboratively plan a travel itinerary. The repository showcases the core components of CrewAI and provides an example workflow for a travel planning agent. Below is a detailed guide to understanding, installing, and running the code.
 
 ![Crew AI Architecture](/resources/crew_ai_arc.png)
 
