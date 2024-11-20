@@ -25,6 +25,7 @@ The system simulates a team of AI agents collaborating to plan a trip. It perfor
 
 
 ![Travel Planner Architecture](/resources/travel_planner_ai_agent.png)
+
 ### **Key Files and Their Roles**
 
 - **`agents.py`**: Defines the three agents:
