@@ -23,6 +23,8 @@ The system simulates a team of AI agents collaborating to plan a trip. It perfor
 2. **City Guide Compilation**: Providing detailed insights about a chosen destination.
 3. **Itinerary Creation**: Generating a structured day-by-day itinerary.
 
+
+![Travel Planner Architecture](/resources/travel_planner_ai_agent.png)
 ### **Key Files and Their Roles**
 
 - **`agents.py`**: Defines the three agents:
